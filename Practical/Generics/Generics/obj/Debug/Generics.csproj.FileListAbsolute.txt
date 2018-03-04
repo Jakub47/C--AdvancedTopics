@@ -1,0 +1,6 @@
+C:\Users\Ragnus\Desktop\C# - Tutsplus - Advanced C#\Practical\Generics\Generics\bin\Debug\Generics.exe.config
+C:\Users\Ragnus\Desktop\C# - Tutsplus - Advanced C#\Practical\Generics\Generics\bin\Debug\Generics.exe
+C:\Users\Ragnus\Desktop\C# - Tutsplus - Advanced C#\Practical\Generics\Generics\bin\Debug\Generics.pdb
+C:\Users\Ragnus\Desktop\C# - Tutsplus - Advanced C#\Practical\Generics\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache
+C:\Users\Ragnus\Desktop\C# - Tutsplus - Advanced C#\Practical\Generics\Generics\obj\Debug\Generics.exe
+C:\Users\Ragnus\Desktop\C# - Tutsplus - Advanced C#\Practical\Generics\Generics\obj\Debug\Generics.pdb
